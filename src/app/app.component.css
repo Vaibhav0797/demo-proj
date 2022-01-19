@@ -1,3 +1,14 @@
-img {
-  width: 100%;
+.blue {
+  background: blue;
+  height: 120px;
+}
+
+.red {
+  background: red;
+  height: 100vh;
+}
+
+.yellow {
+  background: yellow;
+  height: 100vh;
 }
